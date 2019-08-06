@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "message": "Found 1 matching transactions",
+  "payload": {
+    "pageNumber": 1,
+    "pagesAvailable": 1,
+    "totalRowsAvailable": 1,
+    "pageItems": [
+      __transactionTemplate__
+    ]
+  },
+  "feedbackCode": 11107
+}

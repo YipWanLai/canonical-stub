@@ -1,0 +1,57 @@
+    {
+        "id": __transactionId__,
+        "advertiserId": 2973,
+        "publisherId": 54840,
+        "groupId": 9,
+        "bannerId": 9,
+        "productId": 0,
+        "clickThroughTime": "2019-07-05 07:43:03",
+        "date": "2019-07-05 07:43:03",
+        "commissionDate": "2019-07-05 10:13:20",
+        "status": 1,
+        "type": 5,
+        "ip": "",
+        "referer": null,
+        "saleAmount": 1.00,
+        "commissionAmount": 5.00,
+        "extra": "CW-180362563",
+        "clickRef": "",
+        "secondTierRef": 0,
+        "paymentId": null,
+        "invoiceId": null,
+        "paidStatus": {
+          "value": 0
+        },
+        "source": {
+          "value": 12
+        },
+        "platform": "aw",
+        "checksum": null,
+        "voucherCode": "",
+        "parts": [
+          {
+            "id": 1087723820,
+            "transactionId": __transactionId__,
+            "commissionGroupId": 41280,
+            "code": "CALLWINDOW_240",
+            "saleAmount": 1.00,
+            "commissionAmount": 5.00,
+            "payType": 0,
+            "cpoAmount": null,
+            "date": "2019-07-05 10:13:20"
+          }
+        ],
+        "networkFee": {
+          "percentage": 0.00,
+          "amount": 0.00
+        },
+        "isTenancy": false,
+        "tenancy": null,
+        "cpo": null,
+        "lastModified": "2019-07-05 09:13:20",
+        "commissionSharingRule": null,
+        "membershipSoft": false,
+        "serviceProviderSharedTransaction": false,
+        "tqsOrBonus": false,
+        "okToDeleteForBonusOrTqs": false
+      }
